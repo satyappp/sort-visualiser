@@ -1,5 +1,5 @@
-# se04project-std6-team-se
-se04project-std6-team-se created by GitHub Classroom
+# SORT VISUALISER
+Project created for GitHub Classroom
 
 USAGE INSTRUCTIONS:
 - Download the .zip file and extract into a folder.
